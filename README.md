@@ -24,3 +24,7 @@
 [Front-end performance for web designers and front-end developers](http://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/)
 
 [前端性能优化的14个规则，学会就偷着乐](http://www.w3cfuns.com/article-1283-1.html)
+
+[雅虎团队经验：网站页面性能优化的 34条黄金守则](http://www.cnblogs.com/mofish/archive/2010/10/12/1849016.html)
+
+http://www.cnblogs.com/inline/archive/2012/06/01/2531338.html
